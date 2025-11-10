@@ -61,7 +61,7 @@ How to Run Locally
 To clone and run this project on your local machine:
 Step 1: Clone the repository
 
-git clone https://github.com/wazih-shourov/frinance.git
+git clone https://github.com/wazih-shourov/Expense-Tracker-Application.git
 Step 2: Go to the project directory
 
 cd frinance
